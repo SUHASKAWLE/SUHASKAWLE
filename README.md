@@ -1,16 +1,14 @@
-### Hi there 👋
+# Suhas kawle
+### Hi there 👋,
+I'm Suhas from Mumbai(India), and I am an Enthusiastic Data Engineering aspirant. I really enjoy experimenting data as well as working on mysql, python and other tools.
+![I am Enthusiastic Data Engineering aspirant](https://k21academy.com/wp-content/uploads/2022/04/Napa-Data-Engineering-Image-1024x367.jpg)
+## Skills 
+* statistics
+* mysql
+* python
+* spark
+* ML
+* ms-excel
 
-<!--
-**SUHASKAWLE/SUHASKAWLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linkedin profile
+* www.linkedin.com/in/suhas-kawle-42b64025a
