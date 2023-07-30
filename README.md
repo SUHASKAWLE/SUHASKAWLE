@@ -9,6 +9,7 @@ I'm Suhas from Mumbai(India), and I am an Enthusiastic Data Engineering aspirant
 * spark
 * ML
 * ms-excel
+* Web Scraping
 
 ## Linkedin profile
 * www.linkedin.com/in/suhas-kawle-42b64025a
